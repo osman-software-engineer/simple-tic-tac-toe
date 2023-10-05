@@ -1,4 +1,4 @@
-# Simple Tic Tac Toe (Java) 🤖
+# Simple Tic Tac Toe
 
 ## Introduction
 Hey there! Welcome to my Simple Tic Tac Toe project. This is an educational project from JetBrains Academy, part of their Java learning track.
