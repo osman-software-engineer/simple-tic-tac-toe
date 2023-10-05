@@ -14,7 +14,7 @@ The main objective of this project is to provide students with a hands-on applic
 - [IntelliJ IDEA IDE](https://www.jetbrains.com/help/idea/installation-guide.html) with JetBrains Academy Plugin Installed on your machine.
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed on your machine.
 
-## My Profile 👤
+## My Profile
 Feel free to check out my LinkedIn profile for more info:<br>
 [My Linkedin Profile](https://www.linkedin.com/in/osman-mohammed-434661108/)
 
